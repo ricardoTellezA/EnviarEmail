@@ -8,10 +8,10 @@ this project validates the sending of an email, was made with the framework tail
 3. Open the project in your code editor
 
 ## Built with 🛠️
-*[HTML 5]
-*[tailiwind][https://tailwindcss.com/]
-*[JavasScript]
-*[CSS3]
+* [HTML 5]
+* [tailiwind][https://tailwindcss.com/]
+* [JavasScript]
+* [CSS3]
 
 
 https://github.com/ricardoTellezA :neckbeard:
